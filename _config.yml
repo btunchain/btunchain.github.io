@@ -1,6 +1,6 @@
 # Site Settings
-name: ChoiFlix
-title: ChoiFlix | Crater Choi Dev Blog
+name: Crater Choi Dev Blog
+title: Crater Choi Dev Blog
 description: 세발 늦은 최대리의 블로그
 tags:
   - blog
@@ -9,17 +9,17 @@ tags:
   - theme
   - netlify
 show_hero: true
-menu:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
-  - title: testMenu
-    url: /
+#menu:
+#  - title: Home
+#    url: /
+#  - title: About
+#    url: /about
+#  - title: Contact
+#    url: /contact
+#  - title: Feed
+#    url: /feed.xml
+#  - title: testMenu
+#    url: /
 email: btunchain@gmail.com
 disqus_username: Crater Choi
 
