@@ -1,8 +1,8 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Jekflix22
+title: Jekflix2 | A blog theme for Jekyll2
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+  Thiago Rossener.222
 tags:
   - blog
   - template
@@ -18,20 +18,16 @@ menu:
   - title: Contact
     url: /contact
   - title: Feed
+    - title: Feed2
     url: /feed.xml
-email: youremail@test.com
-disqus_username: disqus_username
+email: btunchain@gmail.com
+disqus_username: Crater Choi
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
-
+github_username: Crater Choi
+instagram_username: choi_hqhg
 
 # Posts Settings
 show_time_bar: true
