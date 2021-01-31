@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix22
-title: Jekflix2 | A blog theme for Jekyll2
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.222
+name: ChoiFlix
+title: ChoiFlix | Crater Choi Dev Blog
+description: 세발 늦은 최대리의 블로그
 tags:
   - blog
   - template
@@ -19,13 +18,15 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: testMenu
+    url: /
 email: btunchain@gmail.com
 disqus_username: Crater Choi
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: Crater Choi
+github_username: btunchain
 instagram_username: choi_hqhg
 
 # Posts Settings
@@ -52,7 +53,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
