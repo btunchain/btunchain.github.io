@@ -18,7 +18,6 @@ menu:
   - title: Contact
     url: /contact
   - title: Feed
-    - title: Feed2
     url: /feed.xml
 email: btunchain@gmail.com
 disqus_username: Crater Choi
